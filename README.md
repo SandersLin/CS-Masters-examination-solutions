@@ -26,7 +26,7 @@ If a problem is too easy to solve, we'll mark it as **straightforward** in order
     <tr> <td align = "center" colspan='20' width = "100%"><font size="4px" color="#0x888888">台灣大學</font></td></tr>
        <tr>
     	<td align="center">108</td>
-		<td align="center"><a href="./C01-The-Role-of-Algorithms-in-Computing/1.1.md"><font color="black">線性代數</font></td>
+		<td align="center"><a href="./台大/linear algebra/108.md"><font color="black">線性代數</font></td>
 		<td align="center"><a href="./C01-The-Role-of-Algorithms-in-Computing/1.2.md"><font color="black">離散數學</font></td>
 		<td align="center"><a href="./C01-The-Role-of-Algorithms-in-Computing/problem.md"><font color="black">計算機結構</font></td>
       <td align="center"><a href="./C01-The-Role-of-Algorithms-in-Computing/1.1.md"><font color="black">作業系統</font></td>
