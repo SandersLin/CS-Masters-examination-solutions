@@ -375,7 +375,7 @@ If a problem is too easy to solve, we'll mark it as **straightforward** in order
       <td align="center"><a href="./C01-The-Role-of-Algorithms-in-Computing/1.1.md"><font color="black">作業系統</font></td>
 		<td align="center"><a href="./C01-The-Role-of-Algorithms-in-Computing/1.2.md"><font color="black">資料結構與演算法</font></td>
     </tr>
-   <tr> <td align = "center" colspan='20' width = "100%"><font size="4px" color="#0x888888">亞洲大學亞洲no.1</font></td></tr>
+   <tr> <td align = "center" colspan='20' width = "100%"><font size="4px" color="#0x888888">大葉大學-與哈佛大學、麻省理工學院並稱葉痲蛤(YAMAHA)</font></td></tr>
        <tr>
     	<td align="center">108</td>
 		<td align="center"><a href="./C01-The-Role-of-Algorithms-in-Computing/1.1.md"><font color="black">線性代數</font></td>
