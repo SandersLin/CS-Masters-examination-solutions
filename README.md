@@ -472,14 +472,20 @@ If a problem is too easy to solve, we'll mark it as **straightforward** in order
 # UNSOLVED
 
 [台大102年 第3題](./C31-Number-Theoretic-Algorithms/31.1.md#exercises-311-11)
-[31.2.7](./C31-Number-Theoretic-Algorithms/31.2.md#exercises-312-7)
-[31.2.9](./C31-Number-Theoretic-Algorithms/31.2.md#exercises-312-9)
 
-[32.2.4](./C32-String-Matching/32.2.md#exercises-322-4)
-[32.3.4](./C32-String-Matching/32.3.md#exercises-323-4-)
-[32.4.6](./C32-String-Matching/32.4.md#exercises-324-6-)
 
 ***
+
+# To-do list 
+
+1. assign maintainers to ech subject (probably 1-2 person per subject adequate) 
+2. curation of solutions we already have 
+3.add more schools 
+4.configurate readme links 
+
+
+***
+
 Follow [Sanders](https://github.com/SandersLin) on github to help finish this task.
 
 <sub>**Disclaimer**: the solutions in this repository are crowdsourced work, and in any form it neither represents any opinion of nor affiliates to the authors of Introduction to Algorithms or the MIT press.<sub>
