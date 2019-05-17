@@ -480,8 +480,8 @@ If a problem is too easy to solve, we'll mark it as **straightforward** in order
 
 1. assign maintainers to ech subject (probably 1-2 person per subject adequate) 
 2. curation of solutions we already have 
-3.add more schools 
-4.configurate readme links 
+3. add more schools 
+4. configurate readme links 
 
 
 ***
